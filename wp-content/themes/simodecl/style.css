@@ -8,4 +8,9 @@ Version: 1.0.0
 
 .sidebar {
     width: 400px;
+    background-color: #cecece;
+}
+
+.image_group img {
+    height: 150px;
 }
